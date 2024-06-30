@@ -1,0 +1,64 @@
+Redes e computação na nuvem são componentes essenciais da infraestrutura de TI moderna, e a Azure, plataforma de nuvem da Microsoft, oferece uma ampla gama de serviços e ferramentas para gerenci
+
+Redes
+1. Redes Virtuais (Virtual Networks - VNet):
+
+Permitem a criação de redes privadas na nuvem, onde você pode hospedar suas máquinas virtuais (VMs) e ou
+Suporte sub-redes, endereçamento IP, DNS, rotas e ga
+2. Balanceador de carga do Azure:
+
+Distribui tráfego de entrada para recursos de rede, como VMs.
+Pode ser configurado para balanceamento de carga interno (dentro da VNet) ou externo (para tráfego de internet).
+3. Gateway de Aplicativo do Azure:
+
+Oferece balanceamento de
+Suporte a recursos como firewall de aplicativos web (WAF), redirecionamento baseado em URL e balanceamento de carga baseado
+4. Gateway VPN:
+
+Conectar redes locais ao Azure por meio de uma rede privada virtual (
+Suporte VPN site-a-site, ponto-a-site e VPNs de r
+5. Azure ExpressRoute:
+
+Conecte sua infraestrutura local diretamente ao Azure por meio de uma co
+Oferece maior segurança e confiabilidade
+Co
+1. Máquinas Virtuais (Máquinas Virtuais - VMs):
+
+Educaçao Fisica
+Suporta uma ampla gama de sistemas operacionais, incluindo Windows e várias distribuições
+2. Serviços de Aplicativo do Azure:
+
+Serviço PaaS que facilita a criação, hospedagem e escalonamento de aplicativos web
+Suporta linguagens como .NET, Java, Node.js, Py
+3. Funções do Azure:
+
+Serviço de computação serverless que permite executar código sob demanda sem necessidade de gerenciamento
+Ideal para cenários de microserviços, tarefa
+4. Serviço Azure Kubernetes (AKS):
+
+Serviço gerenciado de Kubernetes que facilita a implantação, gerenciam
+Oferece escalabilidade automática, atualizações simplificadas e integração com outros serviços do Azure.
+5. Área de Trabalho Virtual do Azure:
+
+Serviço que permite a configuração de ambientes de trabalho virtuais na
+Ideal para cenários de trabalho remoto e BYOD (Bring Your Own
+Ferramentas e Serviços Complementares
+1. Monitor do Azure:
+
+Oferece monitoramento e análise de desempenho para aplicações
+Inclui alertas, visualizações, logs e análises.
+2. Central de Segurança do Azure:
+
+Fornece avaliação contínua de segurança, recomendações e mitigação de riscos.
+Ajuda a proteger recursos contra ameaças e você
+3. Azure DevOps:
+
+Conjunto de ferramentas para planejamento, desenvolvimento, entrega e monitoramento de
+Inclui pipelines CI/CD, repositórios de código, gerenciamento de testes e dashbo
+O Azure oferece uma infraestrutura robusta e escalável para gerenciamento de redes e computação na nuvem, adequada para empresas de todos os tamanhos e setores.
+
+
+
+
+
+
